@@ -9,9 +9,14 @@ Os objetivos específicos que serão realizados, será a implantação do Kubern
 
 ### Estrutura do documento
 
-**Intrudução**
-**Conceitos**
-**Componentes do Kubernetes**
-**Estudo de Caso**
-**Análise dos Resultados**
-**Conclusão**
+- **Intrudução**
+
+- **Conceitos**
+
+- **Componentes do Kubernetes**
+
+- **Estudo de Caso**
+
+- **Análise dos Resultados**
+
+- **Conclusão**
